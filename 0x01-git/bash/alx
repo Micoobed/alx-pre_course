@@ -1,4 +1,4 @@
-update_script
-echo "ALX"
-echo "ALX School"
+#!/bin/bash
+echo "School"
+ 
  
